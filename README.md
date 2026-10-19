@@ -111,4 +111,4 @@ Ben Janning - g00411362@atu.ie
 </details>
 
 ---
-[View my public portfolio](https://github.com/benjanning/programming2022).
+[View my public portfolio](https://benjanning.github.io/projects/).

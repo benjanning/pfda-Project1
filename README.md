@@ -1,3 +1,31 @@
+# Salary Factors in Ireland — Synthetic Data Exploration
+
+**Python · Data Simulation · Exploratory Analysis · Jupyter**
+
+A Higher Diploma project examining how earnings can vary with attributes such as age, education and other demographic variables, using **synthetically generated** data informed by published research.
+
+## Overview
+
+- **Question:** How can we model and visualise plausible differences in earnings across several factors?
+- **Research:** Review Irish and other available public statistics.
+- **Implementation:** Generate synthetic observations and explore their distributions and relationships.
+- **Deliverable:** A documented Jupyter notebook with code, plots, assumptions and references.
+
+## Read the work
+
+**[Open the full project notebook](./PFDA_Project_1.ipynb)**
+
+GitHub displays the notebook without requiring a local installation. To rerun it, open in Jupyter or VS Code and install the Python packages imported by the notebook (including NumPy, pandas, Matplotlib and Seaborn).
+
+> **Important interpretation:** The simulated data are not actual individual salary records. Any resulting patterns are driven partly by assumptions used to construct the synthetic dataset and should not be presented as measured causal relationships.
+
+## Academic documentation
+
+The original project overview and reference list are preserved here:
+
+<details>
+<summary>Show the original introduction, outline and references</summary>
+
 # Project 1 for the Programming for Data Analysis Module
 
 ## Introduction:
@@ -79,3 +107,8 @@ Ben Janning - g00411362@atu.ie
 [24] Dataframe Plot Examples. https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot?fbclid=IwAR3ZPGFaNFlUSeEUNpwV92hRmrCodvdni1rsf6hvaNQBqOuhPVcw0ehY2tQ
 
 [25] Dataframe based on if else condition. https://www.dataquest.io/blog/tutorial-add-column-pandas-dataframe-based-on-if-else-condition/?fbclid=IwAR19MaamXD7Fo2Y7nd2YQgFGcHULr3WDauDu-joCIR19K63lQ4k0MQfpxuc
+
+</details>
+
+---
+[View my public portfolio](https://github.com/benjanning/programming2022).
